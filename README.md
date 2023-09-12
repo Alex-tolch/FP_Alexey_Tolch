@@ -1,2 +1,5 @@
 # FP_Alexey_Tolch
-smthg repo-0_0
+Alex Tolch, 24 y.o. 
+1st course in SSAU
+Hobbies: ski, motobyke, hike
+I have working as software engineer in NC since 2021
